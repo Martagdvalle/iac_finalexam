@@ -3,13 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "appServiceAppName": {
-            "value": "jseijas-app-dev-bicep"
+            "value": "mgarcia-app-dev-bicep"
         },
         "appServicePlanName": {
-            "value": "jseijas-app-dev-bicep"
+            "value": "mgarcia-app-dev-bicep"
         },
         "storageAccountName": {
-            "value": "jseijasdevstorage"
+            "value": "mgarciafinalexam2"
         }
     }
 }
